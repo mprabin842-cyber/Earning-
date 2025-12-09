@@ -1,0 +1,5 @@
+{
+  "name": "MicroEarn",
+  "description": "A mobile-first earning application where users complete tasks, surveys, and AI-generated quizzes to earn real rewards via UPI or Gift Cards.",
+  "requestFramePermissions": []
+}
